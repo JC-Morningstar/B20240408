@@ -14,4 +14,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\B20240408.AccesoADatos\B20240408.AccesoADatos.csproj" />
+    <ProjectReference Include="..\B20240408.EntidadesDeNegocio\B20240408.EntidadesDeNegocio.csproj" />
+  </ItemGroup>
+
 </Project>
